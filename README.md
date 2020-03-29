@@ -1,6 +1,5 @@
 # Web Development
 
-![MERN](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
 ![MEAN](https://miro.medium.com/max/1280/1*kkXbE9GlS73U7x1iXHP_vQ.png)
 
 **Prerequisites**: HTML5, CSS3
