@@ -2,15 +2,25 @@
 **Prerequisites**: HTML5, CSS3
 
 ## JavaScript (Es6)
+
  **Fundamentals and Object Oriented Programming in JavaScript**
+ 
 	1. [JavaScript - The Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+	
 	2. [JavaScript Basics for Beginners | Udemy](https://www.udemy.com/course/javascript-basics-for-beginners/)
+	
 	3. [Learn Modern JavaScript & Object Oriented Programming Fast | Udemy](https://www.udemy.com/course/javascript-object-oriented-programming/)
+	
 	4. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+	
 	5. [JavaScript (freeCodeCamp.org)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+	
 	6. [JavaScript Crash Course (Traversy Media)](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+	
 	7. [The JavaScript Beginner’s Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+	
 	8. [Learn JavaScript from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)
+	
 
  I highly recommend first course
 
