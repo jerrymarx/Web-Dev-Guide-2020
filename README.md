@@ -2,7 +2,7 @@
 
 ![MEAN](https://miro.medium.com/max/1280/1*kkXbE9GlS73U7x1iXHP_vQ.png)
 
-**Prerequisites**: HTML5, CSS3
+**Prerequisites**: HTML5 and CSS3
 
 ## JavaScript (Es6)
 
